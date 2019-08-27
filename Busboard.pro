@@ -1,4 +1,4 @@
-update=Tuesday, 27 August 2019 at 11:27:21
+update=Tuesday, 27 August 2019 at 21:49:08
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=Busbar.net
+LastNetListRead=
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -40,6 +40,9 @@ MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
 TrackWidth2=0.254
+TrackWidth3=0.381
+TrackWidth4=0.508
+TrackWidth5=0.889
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
